@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 80.3 32">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        font-size: 6.8px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 3.4px;
+      }
+
+      .cls-5 {
+        fill: #00b2db;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-8, .cls-7 {
+        fill: #00bef9;
+      }
+
+      .cls-6 {
+        fill: #009eff;
+      }
+
+      .cls-4 {
+        font-size: 13.3px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-7" y="0" width="80.3" height="32" rx="3.1" ry="3.1"/>
+    </clipPath>
+  </defs>
+  <g id="OBJECTS">
+    <rect class="cls-6" y="0" width="80.3" height="32" rx="3.1" ry="3.1"/>
+    <g>
+      <rect class="cls-8" y="0" width="80.3" height="32" rx="3.1" ry="3.1"/>
+      <g class="cls-1">
+        <circle class="cls-5" cx="-26.2" cy="-20.6" r="72.8"/>
+      </g>
+    </g>
+  </g>
+  <text class="cls-2" transform="translate(3.3 12.3)"><tspan x="0" y="0">CADASTRO</tspan><tspan x="2.6" y="8.1">ESCOLAR</tspan></text>
+  <text class="cls-3" transform="translate(3.9 26.8)"><tspan x="0" y="0">DE 01 DE JULHO A 30 DE AGOSTO DE 2024</tspan></text>
+  <text class="cls-4" transform="translate(45.3 18.3)"><tspan x="0" y="0">2025</tspan></text>
+</svg>
